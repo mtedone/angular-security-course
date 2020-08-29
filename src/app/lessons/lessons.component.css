@@ -1,4 +1,7 @@
+td {
+  border-bottom: 1px solid red;
+}
 
 h2 {
-    text-align: center;
+  text-align: center;
 }
